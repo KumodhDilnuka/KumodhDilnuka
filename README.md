@@ -21,11 +21,11 @@
 
 ---
 
-## 📈 GitHub Activity Graph
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumodhdilnuka&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=kumodhdilnuka&theme=onedark&no-frame=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
