@@ -18,7 +18,6 @@
 - 💬 Ask me about **Java · PHP · HTML · CSS · C · C++ · JavaScript**
 - 📫 Reach me at **kumodhdilnuka456@gmail.com**
 - 📄 Check out my experiences [here](https://drive.google.com/drive/folders/1aQVq7nCEb3gjED5go31OOVaWKcNgPAu2?usp=sharing)
-- ⚡ Fun fact: **KP**
 
 ---
 
