@@ -25,7 +25,7 @@
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=kumodhdilnuka&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=kumodhdilnuka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -55,9 +55,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kumodhdilnuka&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="Kumodh's GitHub Stats" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kumodhdilnuka&theme=tokyonight" alt="Kumodh's GitHub Stats" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumodhdilnuka&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="Top Languages" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumodhdilnuka&theme=tokyonight" alt="Top Languages" height="170"/>
 
 </div>
 
