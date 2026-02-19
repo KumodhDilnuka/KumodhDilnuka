@@ -1,37 +1,91 @@
-<h1 align="center">Hi 👋, I'm Kumodh Dilnuka</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumodhdilnuka&label=Profile%20views&color=0e75b6&style=flat" alt="kumodhdilnuka" /> </p>
+# Hi there, I'm Kumodh Dilnuka 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumodhdilnuka" alt="kumodhdilnuka" /></a> </p>
+### 🚀 Passionate Frontend Developer from Sri Lanka 🇱🇰
 
-<p align="left"> <a href="https://twitter.com/@kumodhdilnuka" target="blank"><img src="https://img.shields.io/twitter/follow/@kumodhdilnuka?logo=twitter&style=for-the-badge" alt="@kumodhdilnuka" /></a> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=kumodhdilnuka&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/kumodhdilnuka)
+[![Twitter Follow](https://img.shields.io/twitter/follow/@kumodhdilnuka?logo=twitter&style=flat-square&color=1DA1F2)](https://twitter.com/@kumodhdilnuka)
 
-- 🌱 I’m currently learning **Java**
+</div>
 
-- 👨‍💻 All of my projects are available at [kumodhdilnuka456@gmail.com](kumodhdilnuka456@gmail.com)
+---
 
-- 💬 Ask me about **Java,PHP,Html,CSS,C,C+,JS**
+## 👨‍💻 About Me
 
-- 📫 How to reach me **javascript**
+- 🌱 Currently learning **Java** and deepening my backend skills
+- 💼 All of my projects are available on my [GitHub](https://github.com/kumodhdilnuka)
+- 💬 Ask me about **Java · PHP · HTML · CSS · C · C++ · JavaScript**
+- 📫 Reach me at **kumodhdilnuka456@gmail.com**
+- 📄 Check out my experiences [here](https://drive.google.com/drive/folders/1aQVq7nCEb3gjED5go31OOVaWKcNgPAu2?usp=sharing)
+- ⚡ Fun fact: **KP**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1aQVq7nCEb3gjED5go31OOVaWKcNgPAu2?usp=sharing](https://drive.google.com/drive/folders/1aQVq7nCEb3gjED5go31OOVaWKcNgPAu2?usp=sharing)
+---
 
-- ⚡ Fun fact **KP**
+## 🏆 GitHub Trophies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@kumodhdilnuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kumodhdilnuka" height="30" width="40" /></a>
-<a href="https://instagram.com/kumodhdilnuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kumodhdilnuka" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kpo͜͡nlive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kpo͜͡nlive" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/msXK3cbB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/msXK3cbB" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=kumodhdilnuka&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumodhdilnuka&show_icons=true&locale=en&layout=compact" alt="kumodhdilnuka" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumodhdilnuka&show_icons=true&locale=en" alt="kumodhdilnuka" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumodhdilnuka&" alt="kumodhdilnuka" /></p>
+## 🛠️ Languages & Tools
+
+<div align="left">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kumodhdilnuka&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="Kumodh's GitHub Stats" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumodhdilnuka&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="Top Languages" height="170"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kumodhdilnuka&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="left">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@kumodhdilnuka)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kumodhdilnuka)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Kumodhonlive)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CQaqeUMs)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumodhdilnuka456@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **If you find my work interesting, consider giving a star!** ⭐
+
+</div>
