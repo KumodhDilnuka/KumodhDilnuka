@@ -21,15 +21,6 @@
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumodhdilnuka&theme=tokyonight)
-
-</div>
-
----
 
 ## 🛠️ Languages & Tools
 
