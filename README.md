@@ -21,11 +21,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=kumodhdilnuka&theme=onedark&no-frame=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumodhdilnuka&theme=tokyonight)
 
 </div>
 
